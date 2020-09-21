@@ -43,8 +43,9 @@
     background: #CC6600;
     padding: 20px;
     width: 100%;
+    height: 100%;
     writing-mode: vertical-rl;
-    -ms-writing-mode: tb-rl;
+    /*IEのため-ms-writing-mode: tb-rl;  */
     -webkit-writing-mode:vertical-rl;   
 }
 
