@@ -1,3 +1,3 @@
 # Jugemu
-- Reproduce the Star Wars effect with Jugemu.
+たて書き　シリーズ NO.2　STAR WARS　エフェクト
 - 画面によって、中の文字列が丁度終わらず、偏っていたり、はみだしたりする点があるのが課題
