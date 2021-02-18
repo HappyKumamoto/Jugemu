@@ -1,3 +1,7 @@
+body{
+    background-color: #99CC33;
+}
+
 #titles{
     position: absolute;
     width: 18em;
@@ -12,6 +16,7 @@
     transform-origin: 50% 100%;
     transform: perspective(300px) rotateX(25deg);
 }
+
 #titles:after{
     position: absolute;
     content: ' ';
@@ -28,6 +33,7 @@
     top: 100%;
     animation: scroll 100s linear 4s infinite;
 }
+
 @keyframes scroll {
     0% { top: 100%; }
     100% { top: -170%; }
